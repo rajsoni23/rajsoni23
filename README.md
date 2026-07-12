@@ -1,5 +1,5 @@
 # 💫 About Me:
-BCA Graduate & Front-End Developer Seeking Fresher Roles | Web Tech, C, C++, Java, Firebase | 🔍 Passionate about writing clean code & hunting bugs!
+BCA Graduate  | Web Tech, C, C++, Java, Firebase | 🔍 Passionate about writing clean code & hunting bugs!
 
 
 ## 🌐 Socials:
