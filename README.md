@@ -4,7 +4,7 @@ BCA Graduate  | Web Tech, C, C++, Java, Firebase | 🔍 Passionate about writing
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=61573714866884) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nxt.dev_rj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajsoni1234) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)]([https://leetcode.com/dUrEcQJL0K](https://leetcode.com/u/dUrEcQJL0K/))
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajrajgarh1234@gmail.com) 
 
 # 💻 Tech Stack:
